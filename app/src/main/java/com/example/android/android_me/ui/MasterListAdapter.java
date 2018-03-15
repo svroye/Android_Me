@@ -35,6 +35,7 @@ public class MasterListAdapter extends BaseAdapter {
 
     /**
      * Constructor method
+     * @param context
      * @param imageIds The list of images to display
      */
     public MasterListAdapter(Context context, List<Integer> imageIds) {
